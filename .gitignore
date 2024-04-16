@@ -135,3 +135,7 @@ flagged/
 gradio_demo.py
 # dev tools
 .vscode
+
+# em additions
+.DS_Store
+configs/.DS_Store
