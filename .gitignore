@@ -135,3 +135,11 @@ flagged/
 gradio_demo.py
 # dev tools
 .vscode
+
+# em additions
+.DS_Store
+configs/.DS_Store
+configs/agilegan/
+configs/demo/
+em-dirs/pre-trained/
+DLCG-Spring2024-g4dn.2xlarge-keypair.pem
