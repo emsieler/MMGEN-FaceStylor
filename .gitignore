@@ -139,6 +139,6 @@ gradio_demo.py
 # em additions
 .DS_Store
 configs/.DS_Store
-configs/agile_gan/
+configs/agilegan/
 configs/demo/
 em-dirs/pre-trained/
