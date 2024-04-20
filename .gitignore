@@ -142,6 +142,7 @@ configs/.DS_Store
 configs/agilegan/
 configs/demo/
 em-dirs/pre-trained/
+em-dirs/
 DLCG-Spring2024-g4dn.2xlarge-keypair.pem
 mmcv/
 mmgeneration/
