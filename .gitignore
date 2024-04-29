@@ -139,9 +139,8 @@ gradio_demo.py
 # em additions
 .DS_Store
 configs/.DS_Store
-configs/demo/
-em-dirs/pre-trained/
-em-dirs/
+cuda_10.1.243_418.87.00_linux.run
+em_dirs/experiments
 DLCG-Spring2024-g4dn.2xlarge-keypair.pem
 mmcv/
 mmgeneration/
