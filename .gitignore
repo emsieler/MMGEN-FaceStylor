@@ -140,7 +140,7 @@ gradio_demo.py
 .DS_Store
 configs/.DS_Store
 cuda_10.1.243_418.87.00_linux.run
-em_dirs/experiments
+em-dirs/experiments
 DLCG-Spring2024-g4dn.2xlarge-keypair.pem
 mmcv/
 mmgeneration/
